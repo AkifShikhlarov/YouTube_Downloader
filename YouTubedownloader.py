@@ -45,6 +45,18 @@ def download_high_quality_video(youtube_url, output_path):
     except Exception as e:
         print(f"An error occurred: {e}")
 
+logo = r"""
+                                    _________
+            /\       |    /   o     |
+           /  \      |  /     |     |
+          /____\     |/       |     |____
+         /      \    |  \     |     |
+   by   /        \   |    \   |     |
+
+        YOUTUBE DOWNLOADER
+    """
+print(logo)
+
 # Example usage
 youtube_url = input('Enter YouTube link you want to download: ')
 output_path = input('Enter path to download: ')
