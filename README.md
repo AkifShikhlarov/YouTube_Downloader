@@ -11,7 +11,7 @@ Give any YouTube link and get video or audio of that or both of them..
 2)     git clone https://github.com/AkifShikhlarov/YouTube_Downloader.git
 3)     cd YouTube_Downloader
 4)     python YouTubedownloader.py
-
+5)     if you have problem after this You can check another program written below the instructions
 
 
    by Akif Shikhlarov
@@ -30,31 +30,35 @@ Give any YouTube link and get video or audio of that or both of them..
 # This Project is for downloading mainly audios from youtube with links.
 
 `For Windows (CMD)`
-1)      git clone https://github.com/AkifShikhlarov/YouTube__Downloader.git
+1)      pip install yt-dlp
+
+2)      git clone https://github.com/AkifShikhlarov/YouTube_Downloader.git
     
-2)      cd YouTube__Downloader
+3)      cd YouTube__Downloader
 
-3)      python DownloaderNew.py
+4)      python DownloaderNew.py
 
-4)    _Enter the YouTube link_
+5)    _Enter the YouTube link_
 
-5) _Enter The path for downloading file_
+6) _Enter The path for downloading file_
 
-6) _Choose audio,video or both option_ (When you choose video or both option there can be error, because you haven't installed ffmpeg. You can download it from https://ffmpeg.org/
+7) _Choose audio,video or both option_ (When you choose video or both option there can be error, because you haven't installed ffmpeg. You can download it from https://ffmpeg.org/
 
 
 `For Debian (bash)`
-1)      git clone https://github.com/AkifShikhlarov/YouTube__Downloader.git
+1)      pip install yt-dlp
 
-2)      cd YouTube__Downloader
+2)      git clone https://github.com/AkifShikhlarov/YouTube_Downloader.git
 
-3)      python DownloaderNew.py
+3)      cd YouTube__Downloader
 
-4)  _Enter the YouTube link_
+4)      python DownloaderNew.py
 
-5)  _Enter The path for downloading file_
+5)  _Enter the YouTube link_
 
-6)  _Choose audio,video or both option_ (When you choose video or both option there can be error, because you haven't installed ffmpeg. You can download it from https://ffmpeg.org/
+6)  _Enter The path for downloading file_
+
+7)  _Choose audio,video or both option_ (When you choose video or both option there can be error, because you haven't installed ffmpeg. You can download it from https://ffmpeg.org/
 
 
 
